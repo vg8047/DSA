@@ -296,7 +296,7 @@ class Main{
 				break;
 
 			default:
-				System.out.println("please enter valid num by seeing menu");
+				System.out.println("please enter valid num by seeing menu")ii;
 
 		}
 
