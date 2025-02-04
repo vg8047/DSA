@@ -119,6 +119,7 @@ class CircularLinkedList{
                       while(pos -2 != 0){
 	        
 	                      temp = temp.next;
+			      pos--;
 		      }
                       
 		      newnode.next = temp.next;
